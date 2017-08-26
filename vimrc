@@ -19,11 +19,13 @@ runtime! archlinux.vim
 
 "personal settings
 
-syntax enable "syntax processing
+syntax enable " syntax processing
 syntax on
-set tabstop=4 "number of spaces per TAB
-set softtabstop=4 "number of spaces in TAB when editing
-set number "add line numbers
-"set cursorline "highlight current line
-set showmatch "bracket highlighting
-set autoindent "intelligent indenting  
+set tabstop=4 " number of spaces per TAB
+set softtabstop=4 " number of spaces in TAB when editing
+set number " add line numbers
+set showmatch " bracket highlighting
+set autoindent " intelligent indenting
+set expandtab " tabs are spaces
+set showmatch " highlights parens and brackets
+
