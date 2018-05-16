@@ -1,0 +1,11 @@
+sublime
+neofetch
+krita
+darktable
+gimp
+chromium
+wireshark
+vim
+vlc
+dropbox
+
