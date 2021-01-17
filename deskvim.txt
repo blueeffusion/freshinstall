@@ -1,0 +1,30 @@
+" syntax processing
+syntax enable
+
+" shows line numbers
+set number
+
+" enable syntax highlighting
+syntax on
+
+" colorscheme set to default, blue, darkblue, delek, desert, elford, evening, industry, koehler, morning, murphy, pablo, peachpuff, ron, shine, slate, torte, zellner
+colorscheme desert
+
+" automatic code indentation
+set autoindent
+
+" setting tab size
+set tabstop=4
+
+" make tabs travel for friends
+set expandtab
+
+" fix backspace
+set softtabstop=4
+
+" highlight current line
+set cursorline
+
+" highlight brackets
+set showmatch
+
